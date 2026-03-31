@@ -60,3 +60,7 @@ Do not use this code to bypass security mechanisms or violate the terms of servi
 * Adaptive thresholding
 * Noise removal filters
 * Deep learning-based OCR models
+
+## Author
+Juned Khan
+https://github.com/junedkhan9310
